@@ -1,9 +1,24 @@
-I am a software quality professional with experience in manual testing, focused on ensuring functionality, stability, and reliability of applications.
-Currently, I am strengthening my skills in test automation using Python and modern tools, applying testing best practices while exploring the use of artificial intelligence in quality assurance.
-My experience includes:
-✔ Test case design and execution
-✔ Bug identification and reporting
-✔ Functional, regression, and exploratory testing
-✔ Working in Agile environments (Scrum)
-I am interested in growing into a QA Automation Engineer role, contributing not only to defect detection but also to continuous improvement of quality processes within development teams.
-🚀 Currently building automation projects and continuously learning through GitHub.
+### Hola, soy Jennyfer 👋
+
+QA Engineer en transición a **Automation + AI**. Bogotá, Colombia.
+
+#### 🎯 En lo que estoy ahora
+- Aprendiendo Python, Playwright, TypeScript y prácticas modernas de test automation
+- Construyendo un portafolio público en [learning-qa-automation-ia](https://github.com/Orion1144/learning-qa-automation-ia)
+- Preparando ISTQB Foundation Level y especializándome en IA aplicada a testing
+
+#### 🛠️ Stack
+- **Lenguajes:** Python · JavaScript · TypeScript · SQL
+- **Automation:** Playwright · Cypress · Selenium · Postman
+- **CI/CD:** GitHub Actions · Docker
+- **AI in QA:** Prompt engineering · DeepEval · Promptfoo
+
+#### 📈 Experiencia previa
+Líder de Calidad de Software en Helisa. Diseño y ejecución de casos de prueba, regresión, exploratorio, identificación de bugs, trabajo en Scrum.
+
+#### 🎓 Plan 2026
+33 semanas de aprendizaje estructurado: Python → Web Automation → API → CI/CD → IA en testing → Capstone.
+
+#### 🔗 Conecta
+- LinkedIn: [linkedin.com/in/jennyferbastidas](https://www.linkedin.com/in/jennyferbastidas/)
+- 🚀 Currently building automation projects and continuously learning through GitHub.
