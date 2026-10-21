@@ -16,7 +16,7 @@ QA Engineer en transición a **Automation + AI**. Bogotá, Colombia.
 #### 📈 Experiencia previa
 Líder de Calidad de Software en Helisa. Diseño y ejecución de casos de prueba, regresión, exploratorio, identificación de bugs, trabajo en Scrum.
 
-#### 🎓 Plan 2026
+#### 🎓 Próxima Formación:
 33 semanas de aprendizaje estructurado: Python → Web Automation → API → CI/CD → IA en testing → Capstone.
 
 #### 🔗 Conecta
